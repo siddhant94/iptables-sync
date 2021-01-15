@@ -1,0 +1,1 @@
+// Syntax: iptables [-t <table-name>] <command> <chain-name> <parameter-1> <option-1> <parameter-n> <option-n>
